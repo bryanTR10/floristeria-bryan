@@ -1,10 +1,10 @@
-package com.example.floristeria;
+package demo.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FloristeriaApplicationTests {
+class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {

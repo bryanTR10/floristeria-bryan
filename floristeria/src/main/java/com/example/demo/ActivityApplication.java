@@ -1,13 +1,14 @@
-package com.example.floristeria;
+package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FloristeriaApplication {
+public class ActivityApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FloristeriaApplication.class, args);
+		SpringApplication.run(ActivityApplication.class, args);
+		System.out.println("Aplicacion cargada correctamente....");
 	}
 
 }
